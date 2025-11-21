@@ -16,7 +16,7 @@ public static void main(String[] args) {
   // Print the ticket's price to the console
   System.out.println(ticket.getPrice());
   // Print the ticket's isReturn value to the console
-  System.out.println(ticket.getIsReturn());
+  System.out.println(ticket.getIsReturn()); 
 }
 
 
